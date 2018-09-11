@@ -9,6 +9,8 @@ output: html_document
 dados <- read.csv("dados/gapminder_data.csv")
 ```
 
+Exemplo de dados
+
 ```{r}
-head(dados, 10)
+head(dados, 20)
 ```
