@@ -1,0 +1,14 @@
+---
+title: "projeto2"
+author: "Aragao"
+date: "11 de setembro de 2018"
+output: html_document
+---
+
+```{r}
+dados <- read.csv("dados/gapminder_data.csv")
+```
+
+```{r}
+head(dados, 10)
+```
